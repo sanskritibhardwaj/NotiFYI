@@ -1,2 +1,0 @@
-# NotiFYI
-Notification App
